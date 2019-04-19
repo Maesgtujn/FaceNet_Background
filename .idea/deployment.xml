@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Remote196_FB" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="Copy of project-level server 'Remote196_FB'">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/FaceNet_Background" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/FaceNet_Background/models/facenet" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Remote196_FB">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/FaceNet_Background" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/FaceNet_Background/models/facenet" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
